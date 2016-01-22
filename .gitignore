@@ -1,5 +1,7 @@
 ### Example user template template
 /.idea
+/target
+target.zip
 ### Example user template
 
 # IntelliJ project files
@@ -7,4 +9,5 @@
 *.iml
 out
 gen
+
 # Created by .ignore support plugin (hsz.mobi)
